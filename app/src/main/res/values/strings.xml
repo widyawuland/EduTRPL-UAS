@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">EduTRPL</string>
+    <string name="top_bar1">Satuan Kredit Semester</string>
+    <string name="top_bar2">Teknologi Rekayasa Perangkat Lunak</string>
+
+    <string name="sem1">Semester 1</string>
+    <string name="description1">Lihat SKS →</string>
+
+    <string name="sem2">Semester 2</string>
+    <string name="description2">Lihat SKS →</string>
+
+    <string name="sem3">Semester 3</string>
+    <string name="description3">Lihat SKS →</string>
+
+    <string name="sem4">Semester 4</string>
+    <string name="description4">Lihat SKS →</string>
+
+    <string name="sem5">Semester 5</string>
+    <string name="description5">Lihat SKS →</string>
+
+    <string name="sem6">Semester 6</string>
+    <string name="description6">Lihat SKS →</string>
+
+    <string name="sem7">Semester 7</string>
+    <string name="description7">Lihat SKS →</string>
+
+    <string name="sem8">Semester 8</string>
+    <string name="description8">Lihat SKS →</string>
+</resources>
